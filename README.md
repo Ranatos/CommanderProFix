@@ -42,7 +42,7 @@ The boot arguments have been modified from the original ones (`-rev*`) to make s
 
 - `-cpfoff` (or `-liluoff`) to disable
 - `-cpfdbg` (or `-liludbgall`) to enable verbose logging (in DEBUG builds)
-- `-cpfbeta` (or `-lilubetaall`) to enable on macOS older than 10.8 or newer than 11
+- `-cpfbeta` (or `-lilubetaall`) to enable on macOS older than 10.8 or newer than macOS Tahoe
 - `-cpfproc` to enable verbose process logging (in DEBUG builds)
 
 # Credits

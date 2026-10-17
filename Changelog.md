@@ -1,5 +1,9 @@
 RestrictEvents Changelog
 ========================
+#### v1.1.0
+- Added macOS Tahoe support without requiring `-cpfbeta`
+- Updated GitHub Actions CI workflow to actions v4
+
 #### v1.0.9
 - Added `revblock` for user configuration of blocking processes
 - Added additional process blocking:
